@@ -1,0 +1,11 @@
+{
+	"name": "mintOpenflLib",
+	"url" : "",
+	"license": "",
+	"tags": [],
+	"description": "A private collection of openfl utils",
+	"version": "0.0.1",
+	"releasenote": "",
+	"contributors": [""],
+	"dependencies": { "openfl": "" }
+}
